@@ -1,5 +1,5 @@
 function Home() {
-    return <img src="https://media.tenor.com/TVdoMHNbKYoAAAAC/dilera.gif" width="1024"/>
+    return <h1>leozin dacu rs </h1>
 }
 
 export default Home;
