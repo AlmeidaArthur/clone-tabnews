@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>mama eu arlico bacon e cupueta????</h1>
+    return <img src="https://media.tenor.com/TVdoMHNbKYoAAAAC/dilera.gif" width="1024"/>
 }
 
 export default Home;
